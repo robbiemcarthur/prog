@@ -2,7 +2,7 @@ import javax.swing.*;
 import java.awt.event.*;
 import java.awt.*;
 
-
+// comment add
 public class Test extends JFrame implements ActionListener
 {
 	// components as instance variables
